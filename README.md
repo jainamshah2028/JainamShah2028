@@ -1,42 +1,50 @@
+# 👋 Hi, I'm Jainam Shah
 
-# Hi, I'm Jainam Shah 👋
-
-Master's student in Computer Science at Pace University, specializing in web development and software engineering.
-
-## About Me
-- 🎓 Currently pursuing MS in Computer Science at Pace University (2023-2025)
-- 💻 Web Developer with experience in React.js, Node.js, Python, and Java
-- 🌱 Passionate about Deep Learning, Cloud Computing, and Data Visualization
-- 🔭 Always exploring innovative technologies and challenging projects
-
-## Experience
-- 💼 Web Developer at Replete Software Solution (2022-2023)
-  - Front-end development with React.js and Node.js
-  - Back-end development using Python and Java
-  - Unit testing and client communication
-- 🚀 Junior Web Developer at Noisy Steps Pvt Ltd (2022)
-  - Full-stack development experience
-  - Client-focused solutions
-
-## Technical Skills
-- Frontend: React.js, Node.js
-- Backend: Python, Java
-- Data: Tableau, Power BI
-- Tools: AWS, Linux
-- Other: Parallel Computing, Deep Learning, Database Management
-
-## Certifications
-- 🎯 AWS Educate Introduction to Cloud 101
-- 📊 Tata - Data Visualisation: Business Insights
-- 🌟 INSPIRE Program Certification - Pace University
-
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jainamshah20-blue)](https://linkedin.com/in/jainamshah20)
-📧 Email: jainamshah2820@gmail.com
-
-## Education
-- Master of Science in Computer Science - Pace University (2023-2025)
-- Bachelor of Engineering in Computer Science - INDUS University (2018-2022)
+🎓 Master's in Computer Science | International Student (OPT)  
+💻 Full Stack Developer + AI Explorer | Python • React • LangChain • NLP  
+🌍 Open to SDE & AI Engineer roles | Based in Nyc 🇺🇸
 
 
 
+## 🧠 What I Do
+- 🤖 Build practical AI tools using LLMs (OpenAI, LangChain, HuggingFace)
+- 🧱 Create full-stack web apps with Python (Flask, FastAPI) & React
+- 🔍 Explore intelligent agents, AI workflows, and automation
+
+
+
+## 🔨 Featured Projects
+
+| Project | Description | Tech Stack | GitHub |
+|--------|-------------|------------|--------|
+| 📄 Chat with Your PDF| Upload any PDF → Ask questions → AI answers | LangChain, OpenAI, Streamlit | [View Repo](https://github.com/jainamshah2028/chat-with-pdf) |
+| 🧾 AI Resume Grader | Upload resume + job post → Get skill match report | NLP, Python, Streamlit | [Coming Soon]() |
+| 💬 GPT Chatbot App| LLM-based chatbot with custom memory | OpenAI, LangChain, Streamlit | [Coming Soon]() |
+
+
+
+## 🚀 Skills Snapshot
+
+- Languages: Python, JavaScript, HTML/CSS, SQL
+- Frameworks: Streamlit, Flask, React, Node.js
+- AI/ML: LangChain, OpenAI API, HuggingFace, scikit-learn
+- Tools: Git, Docker, Postman, VS Code
+
+
+
+## 📫 Connect With Me
+
+- 📧 jainamshah2028@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/jainamshah2028)
+- 💻 [GitHub Projects](https://github.com/jainamshah2028)
+
+
+
+📈 GitHub Stats
+
+![Jainam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainamshah2028&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainamshah2028&layout=compact&theme=tokyonight)
+
+
+
+⭐ Let’s build the future with AI. I'm open to collaborations, ideas, and job opportunities!
