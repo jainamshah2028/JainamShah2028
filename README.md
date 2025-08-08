@@ -34,7 +34,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 jainamshah2028@gmail.com
+- 📧 jainamshah2820@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/jainamshah2028)
 - 💻 [GitHub Projects](https://github.com/jainamshah2028)
 
