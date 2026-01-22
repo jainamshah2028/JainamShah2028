@@ -18,7 +18,7 @@
 | Project | Description | Tech Stack | GitHub |
 |--------|-------------|------------|--------|
 | 📄 Chat with Your PDF| Upload any PDF → Ask questions → AI answers | LangChain, OpenAI, Streamlit | [View Repo](https://github.com/jainamshah2028/chat-with-pdf) |
-| 🧾 AI Resume Grader | Upload resume + job post → Get skill match report | NLP, Python, Streamlit | [Coming Soon]() |
+| 🧾 AI Resume Grader | Upload resume + job post → Get skill match report | NLP, Python, Streamlit | [Coming Soon](https://github.com/jainamshah2028/ai-resume-grader) |
 | 💬 GPT Chatbot App| LLM-based chatbot with custom memory | OpenAI, LangChain, Streamlit | [Coming Soon]() |
 
 
