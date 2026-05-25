@@ -3,7 +3,7 @@
 🎓 M.S. Computer Science — Pace University, New York (2025)
 💻 Backend Engineer · Node.js · Microservices · PostgreSQL · Docker
 🔐 Built production distributed auth systems with PASETO v4
-🌍 Based in NYC · Currently on OPT · Open to full-time backend roles
+🌍 Based in NYC. Open to full-time backend roles
 
 ## 🔨 What I Build
 
