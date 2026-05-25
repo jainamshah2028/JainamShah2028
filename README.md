@@ -3,9 +3,9 @@
 🎓 M.S. Computer Science — Pace University, New York (2025)
 💻 Backend Engineer · Node.js · Microservices · PostgreSQL · Docker
 🔐 Built production distributed auth systems with PASETO v4
-🌍 Based in NYC. Open to full-time backend roles
+🌍 Based in NYC. Open to full-time backend roles.
 
-## 🔨 What I Build
+## 🔨 What I Built
 
 - **Distributed backend systems** — microservices, API gateways, auth infrastructure
 - **AI-powered tools** — LLM integration, RAG pipelines, NLP applications  
@@ -32,4 +32,4 @@
 
 - 📧 jainamshah2820@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/jainamshah20)
-- 🔐 Currently authorized to work in the US on OPT
+
